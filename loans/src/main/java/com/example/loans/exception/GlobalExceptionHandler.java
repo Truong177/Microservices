@@ -1,6 +1,6 @@
 package com.example.loans.exception;
 
-import com.example.accounts.exception.ResourceNotFoundException;
+import com.example.loans.exception.ResourceNotFoundException;
 import com.example.loans.dto.ErrorResponseDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
